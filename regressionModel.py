@@ -1,6 +1,5 @@
 # Zachary Gruber
 # XGBoost Model
-#KEY = 'ENTER API KEY HERE'
 
 import pandas as pd
 import numpy as np

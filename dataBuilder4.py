@@ -1,6 +1,6 @@
 # Zachary Gruber
 # Data Builder V4
-
+#KEY = 'ENTER API KEY HERE'
 
 import numpy as np
 import requests
